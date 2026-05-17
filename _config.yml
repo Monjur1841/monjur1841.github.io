@@ -27,21 +27,21 @@ author:
   name             : "Monjur"
   pronouns         : # example: "he/him"  
   bio              : "Economist, Researcher, and Corporate Professional."
-  location         : "Earth"
+  location         : "Plot # 15, Block # B, Bashundhara R/A, Dhaka-1229, Bangladesh"
   employer         : "North South University "
   uri              : "https://monjur1841.github.io/"
   email            : "monjurul.bhuiyan01@northsouth.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : "https://northsouth.academia.edu/MonjurulHoqueBhuiyanBhuiyan"
+  arxiv            :  "https://arxiv.org/a/monjur1841.html"
   googlescholar    : "https://scholar.google.com/citations?user=pDn9Lg4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-1632-3989"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/"
   researchgate     : "https://www.researchgate.net/profile/Monjurul-Hoque-3"
   scopus           : # URL
   zotero           : # URL
