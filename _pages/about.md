@@ -10,4 +10,4 @@ Currently, I work as an **Executive in Corporate & Regulatory Affairs** at US-Ba
 
 I am always open to collaborative research opportunities, policy discussions, and roles within economic think tanks and development agencies. 
 
-Feel free to reach out to me via [Email](mailto:monjurul.bhuiyan01@northsouth.edu) or connect with me on [LinkedIn](YOUR_LINKEDIN_LINK_HERE).
+Feel free to reach out to me via [Email](mailto:monjurul.bhuiyan01@northsouth.edu) or connect with me on [LinkedIn](http://linkedin.com/in/monjurul-hoque-?utm_source=share_via&utm_content=profile&utm_medium=member_android).
