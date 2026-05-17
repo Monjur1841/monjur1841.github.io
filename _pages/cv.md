@@ -1,64 +1,35 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+# Curriculum Vitae
+
+You can download a PDF copy of my complete CV [here](../files/CV_Monjurul_Hoque_Bhuiyan.pdf).
+
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**North South University**, Dhaka, Bangladesh
+* **M.Sc. in Economics** *(Currently Pursuing)*
+* **BBA in Economics & Finance** *(Cum Laude)*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Professional Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**US-Bangla Assets Ltd.** | Dhaka, Bangladesh
+*Executive, Dept. of Corporate & Regulatory Affairs* (Jan 2026 – Present)
+* Manage comprehensive legal and regulatory compliance for a conglomerate portfolio of 38 subsidiary companies.
+* Direct the drafting and finalization of Annual General Meeting (AGM) documents and other critical corporate records.
+* Liaise directly with the Registrar of Joint Stock Companies and Firms (RJSC&F) and other regulatory bodies to secure rapid approvals and ensure smooth, legally sound business operations.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**North South University** | Dhaka, Bangladesh
+*Research Assistant, Dept. of Economics* (Dec 2022 – Present)
+* Co-authored peer-reviewed publications, including a paper accepted in *F1000Research* on forecasting minute-level stock prices using denoised data.
+* Co-authored (as corresponding author) a peer-reviewed paper in the *Canadian Journal of Business & Information Studies* on evaluating portfolio performance.
+* Utilized Python (PyPortfolio Opt) to analyze stock data from the NSE, conducting rigorous statistical analysis to support evidence-based findings.
+
+*Teaching Assistant, Dept. of Economics* * Assisted faculty members with coursework administration and supported students in understanding core economic principles.
+
+---
+
+## Technical Skills
+* **Programming & Software:** Python (PyPortfolio Opt), R, Stata, Power BI, Advanced MS Excel.
+* **Core Competencies:** Econometrics, Data Analysis, Regulatory Compliance, Project Management.
