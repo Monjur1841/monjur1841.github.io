@@ -1,36 +1,23 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "Forecasting Minute-Level Stock Prices with Denoised Data: A Comparative Study of Developed vs. Developing Financial Markets"
+collection: publications
+permalink: /publication/2026-04-24-F1000-Stock-Forecasting
+excerpt: 'This paper analyzes high-frequency stock data using denoising techniques to challenge the bias toward developed markets and unlock intraday returns.'
+date: 2026-04-24
+venue: 'F1000Research'
+paperurl: 'https://doi.org/10.12688/f1000research.178859.1'
+citation: 'Sami, H.M., Bhuiyan, M.H., Kundu, D., & Ahmed, S. (2026). "Forecasting Minute-Level Stock Prices with Denoised Data: A Comparative Study of Developed vs. Developing Financial Markets." F1000Research, 15:613.'
 ---
+This research utilizes advanced machine learning models to forecast minute-level stock prices. It compares three developed markets against three developing markets, applying deep learning to denoised high-frequency data to evaluate market efficiencies and intraday return potential.
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+---
+title: "Evaluating Portfolio Performance Using Technical Indicators and Financial Ratio for Stocks in NSE by PyPortfolioOpt"
+collection: publications
+permalink: /publication/2024-12-21-CJBIS-Portfolio-Performance
+excerpt: 'An evaluation of stock portfolio performance in the National Stock Exchange (NSE) utilizing technical indicators, financial ratios, and Python (PyPortfolioOpt).'
+date: 2024-12-21
+venue: 'Canadian Journal of Business and Information Studies'
+paperurl: 'https://doi.org/10.34104/cjbis.024.02510260'
+citation: 'Bhuiyan, M.H., Moni, A.K., Halim, M.B., & Sami, H.M. (2024). "Evaluating Portfolio Performance Using Technical Indicators and Financial Ratio for Stocks in NSE by PyPortfolioOpt." Canadian Journal of Business and Information Studies, 6(6), 251-260.'
+---
+This paper explores the crucial role of financial ratios and technical heuristics in stock market investments. Utilizing Python's PyPortfolioOpt, the study conducts rigorous statistical analysis to optimize portfolio performance and evaluate dependent stock markets within the National Stock Exchange (NSE).
