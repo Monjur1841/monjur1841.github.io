@@ -1,39 +1,28 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+layout: archive
+title: "Talks & Presentations"
+permalink: /talks/
+author_profile: true
 ---
 
-{% include base_path %}
-{% include toc %}
+A select chronicle of my academic research defenses, case study presentations, and structural briefings delivered across academic panels and corporate evaluation boards.
 
-## Privacy Policy
+---
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+### Graduate Research Defenses & Panels
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+* **Deviation from Purchasing Power Parity and International Migration in South Asian Economies** *(May 2026)* | *Department of Economics, North South University (ECO614 Panel Presentation)* * Delivered a comprehensive technical briefing to department faculty mapping the structural foundations of the classical Gravity Model framework against real purchasing power variances across South Asian economies.
 
-### Log Files
+* **The Colonial Origins of Comparative Development: An Empirical Investigation** *(December 2025)* | *Department of Economics, North South University (ECO504 Research Seminar)* * Co-presented an empirical evaluation on the long-run institutional development paths popularized by Acemoglu, Johnson, and Robinson (2001), defending the choices behind instrumental variables and historic settler mortality metrics.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+* **Estimation of the Production Function (Cobb-Douglas)** *(2024)* | *Department of Economics, North South University (ECO372 Project Defense)* * Defended empirical strategy outcomes for multiple log-log regression models evaluating macroeconomic capital-labor elasticities on GDP to an academic review committee.
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+---
 
-All of this information is not linked to anything that is personally identifiable.
+### Corporate & Business Case Pitches
 
-### Cookies and Web Beacons
+* **Marico's "Over the Wall" Strategy Presentation** *(2023)* | *National Semi-Finals Evaluation Board* * Presented corporate strategy overhauls, supply chain optimizations, and business agility frameworks directly to senior leadership panels from Marico Bangladesh.
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](https://disqus.com) the next time you leave a comment.
+* **Bizmaestro '23 Strategy Pitch** *(2023)* | *Unilever Bangladesh Semi-Finals* * Pitched high-stakes corporate solutions, operational management designs, and market expansion strategies under strict timed constraints to real-world corporate executives.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://www.google.com/analytics/learn/privacy.html).
+* **Comprehensive Financial Valuation & Equity Research (Marico Bangladesh)** *(2024)* | *School of Business & Economics, NSU (FIN435/FIN410 Board Presentation)* * Formally presented and defended a complete multi-criteria financial model—including DCF metrics, WACC, and CAPM projections—before an evaluation panel of finance faculty.
