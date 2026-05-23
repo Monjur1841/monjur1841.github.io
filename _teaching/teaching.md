@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
@@ -16,7 +16,7 @@ Assisted departmental faculty members across multiple foundational quantitative,
 * **ECO 101** – Introduction to Microeconomics
 * **ECO 104** – Introduction to Macroeconomics
 * **ECO 135** – Applied Mathematics for Economics I
-* **ECO 348** – Economy of Bangladesh
+* **ECO 348** – Public Finance
 
 **Core Responsibilities:**
 * Managed comprehensive grading workflows for continuous course evaluations, complex assignments, quizzes, and quantitative problem sets.
