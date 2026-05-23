@@ -13,4 +13,4 @@ This Op-Ed was originally published in **The Daily Star** on March 29, 2026.
 
 The piece reflects on the socio-economic and structural insights gained from observing Dhaka during its rare quiet, empty intervals, examining what it reveals about our collective urban existence, infrastructure strains, and community living.
 
-[Read the full article on The Daily Star](https://www.thedailystar.net/)
+[Read the full article on The Daily Star](https://www.thedailystar.net/opinion/views/news/what-empty-dhaka-teaches-us-about-how-we-live-4136276)
