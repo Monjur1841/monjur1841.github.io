@@ -51,7 +51,9 @@ You can download a PDF copy of my complete CV [here](../files/CV_Monjurul_Hoque_
 * Currently collaborating on two additional research papers for the Department of Economics and the Department of Accounting & Finance.
 
 *Undergraduate Teaching Assistant, Dept. of Economics* *(Feb 2024 – Sep 2025)*
-* Facilitate academic operations by proctoring exams, grading assessments, and managing communication between faculty and students to ensure smooth course delivery.
+* **Courses Assigned:** ECO101 (Introduction to Microeconomics), ECO104 (Introduction to Macroeconomics), ECO135 (Applied Mathematics for Economics I), and ECO348 (Economy of Bangladesh).
+* Facilitated core academic operations for department faculty by managing exam proctoring logistics, evaluation pipelines, and active continuous grading rubrics.
+* Hosted student consultation office hours to clarify quantitative problem sets, mathematical economics proofs, and regional economic data indicators.
 
 *PABX & Pzone Associate* *(Mar 2022 – Feb 2024)*
 * Operated as the central Campus Helpdesk, serving as the primary point of contact for the entire faculty and student body regarding technical and administrative inquiries.
