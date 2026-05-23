@@ -1,45 +1,34 @@
+---
+layout: archive
+title: "Talks & Presentations"
+permalink: /talks/
+author_profile: true
+---
 
-    <!DOCTYPE html>
-    <html>
-    <head>
-    	<title>Leaflet debug page</title>
+A select chronicle of my academic research defenses, case study presentations, and structural briefings delivered across academic panels and corporate evaluation boards.
 
-    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.css" />
-    	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-beta.2/leaflet.js"></script>
-    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    	<link rel="stylesheet" href="leaflet_dist/screen.css" />
+---
 
-    	<link rel="stylesheet" href="leaflet_dist/MarkerCluster.css" />
-    	<link rel="stylesheet" href="leaflet_dist/MarkerCluster.Default.css" />
-    	<script src="leaflet_dist/leaflet.markercluster-src.js"></script>
-    	<script src="org-locations.js"></script>
+### Graduate Research Defenses & Panels
 
-    </head>
-    <body>
+* **Deviation from Purchasing Power Parity and International Migration in South Asian Economies** *May 2026* | Department of Economics, North South University (ECO614 Panel Presentation)  
+  * Delivered a comprehensive technical briefing to department faculty mapping the structural foundations of the classical Gravity Model framework against real purchasing power variances across South Asian economies.
 
-    	<div id="map"></div>
-    	<span>Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds</span>
-    	<script type="text/javascript">
-    		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-              maxZoom: 18,
-              attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
-                    }),
-    			latlng = L.latLng(30, 10);
-    		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
-    		var markers = L.markerClusterGroup({
-    			showCoverageOnHover: false,
-    			maxClusterRadius: 80
-    			});
-    		for (var i = 0; i < addressPoints.length; i++) {
-    			var a = addressPoints[i];
-    			var title = a[0];
-    			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
-    			marker.bindPopup(title);
-    			markers.addLayer(marker);
-    		}
-    		map.addLayer(markers);
-    		map.zoomIn();
-    	</script>
-    </body>
-    </html>
-    
+* **The Colonial Origins of Comparative Development: An Empirical Investigation** *December 2025* | Department of Economics, North South University (ECO504 Research Seminar)  
+  * Co-presented an empirical evaluation on the long-run institutional development paths popularized by Acemoglu, Johnson, and Robinson (2001), defending the choices behind instrumental variables and historic settler mortality metrics.
+
+* **Estimation of the Production Function (Cobb-Douglas)** *2024* | Department of Economics, North South University (ECO372 Project Defense)  
+  * Defended empirical strategy outcomes for multiple log-log regression models evaluating macroeconomic capital-labor elasticities on GDP to an academic review committee.
+
+---
+
+### Corporate & Business Case Pitches
+
+* **Marico's "Over the Wall" Strategy Presentation** *2023* | National Semi-Finals Evaluation Board  
+  * Presented corporate strategy overhauls, supply chain optimizations, and business agility frameworks directly to senior leadership panels from Marico Bangladesh.
+
+* **Bizmaestro '23 Strategy Pitch** *2023* | Unilever Bangladesh Semi-Finals  
+  * Pitched high-stakes corporate solutions, operational management designs, and market expansion strategies under strict timed constraints to real-world corporate executives.
+
+* **Comprehensive Financial Valuation & Equity Research (Marico Bangladesh)** *2024* | School of Business & Economics, NSU (FIN435/FIN410 Board Presentation)  
+  * Formally presented and defended a complete multi-criteria financial model—including DCF metrics, WACC, and CAPM projections—before an evaluation panel of finance faculty.
