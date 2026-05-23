@@ -37,6 +37,12 @@ You can download a PDF copy of my complete CV [here](../files/CV_Monjurul_Hoque_
 * Manage comprehensive legal and regulatory compliance for a massive conglomerate portfolio of 38 subsidiary companies.
 * Liaise directly with the Registrar of Joint Stock Companies and Firms (RJSC&F) and other regulatory bodies to secure rapid approvals and ensure smooth, legally sound business operations.
 
+  **Lambda Academy** | Dhaka, Bangladesh
+*Academic Instructor & Tutor* *(Ongoing)*
+* Conduct comprehensive tutorial sessions and provide targeted academic support for North South University (NSU) undergraduate students in **ECO101 (Introduction to Microeconomics)**, **BUS172 (Introduction to Statistics)**, and **ACT202 (Introduction to Financial Accounting)**.
+* Deconstruct complex theoretical concepts, guide students through quantitative problem sets, assignments, and case studies, and design focused exam-preparation materials.
+* Collaborate actively with fellow educators to refine instructional strategies, optimize lesson delivery layouts, and maintain an inclusive, high-achievement learning environment.
+
 **North South University** | Dhaka, Bangladesh
 *Research Assistant, Dept. of Economics* *(Dec 2022 – Present)*
 * **Accepted Publication:** Co-authored "Forecasting Minute-Level Stock Prices with Denoised Data: A Comparative Study of Developed vs. Developing Financial Markets," accepted in *F1000Research* for publication.
