@@ -1,4 +1,9 @@
-# Curriculum Vitae
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
 You can download a PDF copy of my complete CV [here](../files/CV_Monjurul_Hoque_Bhuiyan.pdf).
 
