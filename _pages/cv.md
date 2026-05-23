@@ -7,11 +7,11 @@ You can download a PDF copy of my complete CV [here](../files/CV_Monjurul_Hoque_
 ## Education
 
 **North South University** | Dhaka, Bangladesh
-* [cite_start]**Master of Science (M.Sc.) in Economics** *(Expected: Dec 2027)* [cite: 53, 54]
-  * [cite_start]*Relevant Coursework:* Advanced Econometrics, Macroeconomic Theory, Microeconomic Analysis[cite: 57].
-* **Bachelor of Business Administration (BBA)** | [cite_start]*Cum Laude* *(May 2025)* [cite: 59, 60, 61]
-  * [cite_start]*Major:* Economics & Finance (GPA: 3.59/4.0)[cite: 59, 60].
-  * [cite_start]*Relevant Coursework:* Econometrics, Financial Analysis, Research Methodology[cite: 60].
+**Master of Science (M.Sc.) in Economics** *(Expected: Dec 2027)* [cite: 53, 54]
+  *Relevant Coursework:* Advanced Econometrics, Macroeconomic Theory, Microeconomic Analysis[cite: 57].
+**Bachelor of Business Administration (BBA)** | [cite_start]*Cum Laude* *(May 2025)* [cite: 59, 60, 61]
+  *Major:* Economics & Finance (GPA: 3.59/4.0)[cite: 59, 60].
+  *Relevant Coursework:* Econometrics, Financial Analysis, Research Methodology[cite: 60].
 
 **Rangpur Cadet College** | Rangpur, Bangladesh
 * **Higher Secondary School Certificate (Science)** | [cite_start]GPA: 5.0/5.0 *(2018)* [cite: 63, 64, 65, 70]
@@ -23,23 +23,23 @@ You can download a PDF copy of my complete CV [here](../files/CV_Monjurul_Hoque_
 ## Professional Experience
 
 **US-Bangla Assets Ltd.** | Dhaka, Bangladesh
-[cite_start]*Executive, Dept. of Corporate & Regulatory Affairs* *(Jan 2026 – Present)* [cite: 5, 6, 7]
-* [cite_start]Manage comprehensive legal and regulatory compliance for a conglomerate portfolio of 38 subsidiary companies[cite: 10].
-* [cite_start]Direct the drafting and finalization of Annual General Meeting (AGM) documents and critical corporate records[cite: 9].
-* [cite_start]Liaise directly with the Registrar of Joint Stock Companies and Firms (RJSC&F) and regulatory bodies to secure rapid approvals[cite: 11].
+*Executive, Dept. of Corporate & Regulatory Affairs* *(Jan 2026 – Present)* [cite: 5, 6, 7]
+* Manage comprehensive legal and regulatory compliance for a conglomerate portfolio of 38 subsidiary companies[cite: 10].
+* Direct the drafting and finalization of Annual General Meeting (AGM) documents and critical corporate records[cite: 9].
+* Liaise directly with the Registrar of Joint Stock Companies and Firms (RJSC&F) and regulatory bodies to secure rapid approvals[cite: 11].
 
 **North South University** | Dhaka, Bangladesh
-[cite_start]*Research Assistant, Dept. of Economics* *(Dec 2022 – Present)* [cite: 12, 13, 14]
-* [cite_start]Co-authored high-frequency stock data analytics research accepted in *F1000Research*[cite: 15].
-* [cite_start]Served as corresponding author for a peer-reviewed paper on portfolio performance evaluation in the *Canadian Journal of Business & Information Studies*[cite: 17].
-* [cite_start]Utilized Python (`PyPortfolioOpt`) to analyze stock data from the National Stock Exchange (NSE) via rigorous statistical analysis[cite: 18].
-* [cite_start]Currently collaborating on two ongoing research papers across the Economics and Accounting & Finance departments[cite: 19].
+*Research Assistant, Dept. of Economics* *(Dec 2022 – Present)* [cite: 12, 13, 14]
+* Co-authored high-frequency stock data analytics research accepted in *F1000Research*[cite: 15].
+* Served as corresponding author for a peer-reviewed paper on portfolio performance evaluation in the *Canadian Journal of Business & Information Studies*[cite: 17].
+* Utilized Python (`PyPortfolioOpt`) to analyze stock data from the National Stock Exchange (NSE) via rigorous statistical analysis[cite: 18].
+* Currently collaborating on two ongoing research papers across the Economics and Accounting & Finance departments[cite: 19].
 
-[cite_start]*Undergraduate Teaching Assistant, Dept. of Economics* *(Feb 2024 – Sep 2025)* [cite: 21, 22]
-* [cite_start]Facilitated academic operations by proctoring exams, grading assessments, and managing communication streams[cite: 23, 24].
+*Undergraduate Teaching Assistant, Dept. of Economics* *(Feb 2024 – Sep 2025)* [cite: 21, 22]
+* Facilitated academic operations by proctoring exams, grading assessments, and managing communication streams[cite: 23, 24].
 
-[cite_start]*PABX & Pzone Associate* *(Mar 2022 – Feb 2024)* [cite: 31, 32, 33]
-* [cite_start]Handled central Campus Helpdesk operations, troubleshooting technical and administrative inquiries for faculty and students[cite: 35, 36, 37].
+*PABX & Pzone Associate* *(Mar 2022 – Feb 2024)* [cite: 31, 32, 33]
+* Handled central Campus Helpdesk operations, troubleshooting technical and administrative inquiries for faculty and students[cite: 35, 36, 37].
 
 ---
 
