@@ -12,16 +12,16 @@ A comprehensive track record of my academic teaching assistantships, continuous 
 ### Undergraduate Teaching Assistant
 **Department of Economics, North South University** | *February 2024 – September 2025*
 
-Assisted departmental faculty members across multiple foundational quantitative, mathematical, and senior theoretical economics course tracks:
+Assisted departmental faculty members across multiple foundational quantitative, mathematical, and senior economic policy course tracks:
 * **ECO 101** – Introduction to Microeconomics
 * **ECO 104** – Introduction to Macroeconomics
 * **ECO 135** – Applied Mathematics for Economics I
-* **ECO 348** – Public Finance
+* **ECO 348** – Economy of Bangladesh
 
 **Core Responsibilities:**
 * Managed comprehensive grading workflows for continuous course evaluations, complex assignments, quizzes, and quantitative problem sets.
 * Conducted structured examination proctoring duties to ensure strict academic integrity layouts for large faculty exam halls.
-* Led individual and group student consultation pipelines during scheduled office hours, deconstructing macro/microeconomic models, mathematical economic proofs, and fiscal policy application assignments.
+* Led individual and group student consultation pipelines during scheduled office hours, deconstructing macro/microeconomic models, mathematical economic proofs, and structural development indicators specific to the Bangladesh economy.
 
 ---
 
