@@ -30,6 +30,15 @@ You can download a PDF copy of my complete CV [here](../files/CV_Monjurul_Hoque_
 
 ---
 
+## Certifications & Training
+
+**National Cyber Security Agency (NCSA)** | Bangladesh
+* **Artificial Intelligence and Cyber Security Essentials** *(May 2026)*
+  * Successfully completed the professional training program with a perfect evaluation score of 100/100.
+  * Acquired core competencies in data infrastructure security, AI application workflows, and digital risk management.
+
+---
+
 ## Technical Skills
 * **Programming & Software:** Python (PyPortfolio Opt), R, Stata, Power BI, Advanced MS Excel.
 * **Core Competencies:** Econometrics, Data Analysis, Regulatory Compliance, Project Management.
